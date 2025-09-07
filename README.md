@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+I'm<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -75,8 +75,4 @@
 
   <!-- Footer -->
   <footer>
-    <p>© 2025 YO SAT. All Rights Reserved.</p>
-  </footer>
-
-</body>
-</html>
+    <p>© 2025 YO SAT. All Rights Reserved.
